@@ -1,0 +1,30 @@
+/* body{
+  margin: 0px;
+  padding: 0px;
+}
+
+.vau{
+  width: 200px;
+  height: 1000px;
+  background-color: chocolate;
+  background-attachment: fixed  ;
+}
+h1
+{
+  margin-bottom: 0;
+ margin-left: 25%;
+ margin-right: 10%s;
+
+} */
+#menu{
+  padding-left: 0px;
+  padding-right: 0px;
+  text-align: center;
+  position: fixed;
+  top: 0px;
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  height: 100%;
+  background-color: #bd5d38;
+}
